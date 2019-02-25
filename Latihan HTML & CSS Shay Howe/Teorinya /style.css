@@ -1,0 +1,25 @@
+p {
+    color: orange;
+    font-size : 16px;
+}
+/* p nya itu "Selector", "Property" nya itu color, font-size dan "Value" nya itu orange dan font-size
+
+List Most common "Selectors" :
+- type, langsung tulis namanya aja
+- class, pake .
+- id, pake #
+
+<div></div> itu division elements
+
+Class Selector : bisa kenain banyak tempat sekaligus, liat file index.htmlnya Class Selector juga bisa digunain berapa banyak sekaligus
+
+ID Selector : sangat precise dari class selector, karena hanya ngenain 1 unik element. ID Selector hanya bisa digunakan SEKALI AJA PER PAGE.
+*/
+
+.awesome{
+    
+}
+
+#shayhowe{
+    
+}
